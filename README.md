@@ -29,7 +29,3 @@ If you would like to contribute to this repository, please follow these steps:
 ## Support
 
 If you have any questions or need help with the algorithms, you can reach out to me on Github or through email.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
